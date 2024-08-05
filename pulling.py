@@ -1,0 +1,1 @@
+print('qmonkey wants to pull another qmonkey\'s tail')
